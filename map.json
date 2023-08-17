@@ -1,0 +1,269 @@
+[
+  {"name": "s8 screen refurb silver", "ms": "107082012810", "rq":"6875"},
+  {"name": "s8 screen refurb gray", "ms": "107082012808", "rq":"6871"},
+  {"name": "s8 screen refurb black", "ms": "107082012811", "rq":"6873"},
+
+  {"name": "s8 screen service silver", "ms": "107082011638", "rq":"6875"},
+  {"name": "s8 screen service gray", "ms": "107082011639", "rq":"6871"},
+  {"name": "s8 screen service black", "ms": "107082011633", "rq":"6873"},
+
+  {"name": "s8 plus screen refurb silver", "ms": "107082011805", "rq":"6881"},
+  {"name": "s8 plus screen refurb gray", "ms": "107082011808", "rq":"6877"},
+  {"name": "s8 plus screen refurb black", "ms": "107082011809", "rq":"6879"},
+
+  {"name": "s8 plus screen service silver", "ms": "107082011637", "rq":"6881"},
+  {"name": "s8 plus screen service gray", "ms": "107082011640", "rq":"6877"},
+  {"name": "s8 plus screen service black", "ms": "107082011635", "rq":"6879"},
+
+  {"name": "s9 screen refurb black", "ms": "107082013116", "rq":"4028246"},
+  {"name": "s9 screen refurb purple", "ms": "107082013115", "rq":"4028245"},
+  {"name": "s9 screen refurb blue", "ms": "107082013104", "rq":"4028244"},
+
+  {"name": "s9 screen service black", "ms": "107082013101", "rq":"4028246"},
+  {"name": "s9 screen service purple", "ms": "107082013102", "rq":"4028245"},
+  {"name": "s9 screen service blue", "ms": "107082013103", "rq":"4028244"},
+
+  {"name": "s10 screen refurb blue", "ms": "107082020104", "rq":"4036071"},
+  {"name": "s10 screen refurb white", "ms": "107082020103", "rq":"4036072"},
+  {"name": "s10 screen refurb black", "ms": "107082020102", "rq":"4036070"},
+
+  {"name": "s10 screen service blue", "ms": "107082020309", "rq":"4036071"},
+  {"name": "s10 screen service white", "ms": "107082020305", "rq":"4036072"},
+  {"name": "s10 screen service black", "ms": "107082020304", "rq":"4036070"},
+
+  {"name": "s10 plus screen refurb black", "ms": "107082020204", "rq":"4036076"},
+  {"name": "s10 plus screen refurb blue", "ms": "107082020208", "rq":"4036077"},
+  {"name": "s10 plus screen refurb white", "ms": "107082020205", "rq":"4036078"},
+
+  {"name": "s10 plus screen service black", "ms": "107082020202", "rq":"4036076"},
+  {"name": "s10 plus screen service blue", "ms": "107082020212", "rq":"4036077"},
+  {"name": "s10 plus screen service white", "ms": "107082020203", "rq":"4036078"},
+
+  {"name": "s10e screen refurb white", "ms": "107082020314", "rq":"4036082"},
+  {"name": "s10e screen refurb blue", "ms": "107082020364", "rq":"4036081"},
+  {"name": "s10e screen refurb black", "ms": "107082020312", "rq":"4036080"},
+
+  {"name": "s10e screen service white", "ms": "107082020303", "rq":"4036082"},
+  {"name": "s10e screen service blue", "ms": "107082020307", "rq":"4036081"},
+  {"name": "s10e screen service black", "ms": "107082020302", "rq":"4036080"},
+
+  {"name": "s20 screen refurb gray", "ms": "107082003801", "rq":"4045551"},
+  {"name": "s20 screen refurb blue", "ms": "107082003802", "rq":"4045550"},
+  {"name": "s20 screen refurb pink", "ms": "107082003803", "rq":"4045549"},
+
+  {"name": "s20 screen service gray", "ms": "107082072605", "rq":"4045551"},
+  {"name": "s20 screen service blue", "ms": "107082072604", "rq":"4045550"},
+  {"name": "s20 screen service pink", "ms": "107082072606", "rq":"4045549"},
+
+  {"name": "s20 plus screen refurb gray", "ms": "107082073903", "rq":"4045554"},
+  {"name": "s20 plus screen refurb blue", "ms": "107082073904", "rq":"4045553"},
+  {"name": "s20 plus screen refurb black", "ms": "107082073902", "rq":"4045552"},
+  {"name": "s20 plus screen service gray", "ms": "107082072608", "rq":"4045554"},
+  {"name": "s20 plus screen service blue", "ms": "107082072600", "rq":"4045553"},
+  {"name": "s20 plus screen service black", "ms": "107082072607", "rq":"4045552"},
+
+  {"name": "s20 ultra screen refurb black", "ms": "107082074401", "rq":"4045558"},
+  {"name": "s20 ultra screen refurb gray", "ms": "107082074402", "rq":"4045556"},
+  {"name": "s20 ultra screen service black", "ms": "107082073403", "rq":"4045558"},
+  {"name": "s20 ultra screen service gray", "ms": "107082072610", "rq":"4045556"},
+
+  {"name": "s21 screen refurb voilet", "ms": "107082085904", "rq":"4052197"},
+  {"name": "s21 screen refurb pink", "ms": "107082085902", "rq":"4052196"},
+  {"name": "s21 screen refurb white", "ms": "107082085903", "rq":"4052198"},
+  {"name": "s21 screen refurb gray", "ms": "107082085901", "rq":"4052195"},
+  {"name": "s21 screen service voilet", "ms": "107082086730", "rq":"4052197"},
+  {"name": "s21 screen service pink", "ms": "107082086729", "rq":"4052196"},
+  {"name": "s21 screen service white", "ms": "107082086731", "rq":"4052198"},
+  {"name": "s21 screen service gray", "ms": "107082086711", "rq":"4052195"},
+
+  {"name": "s21 plus screen refurb black", "ms": "107082086712", "rq":"4052204"},
+  {"name": "s21 plus screen refurb violet", "ms": "107082086714", "rq":"4052209"},
+  {"name": "s21 plus screen refurb silver", "ms": "107082086713", "rq":"4052208"},
+  {"name": "s21 plus screen service black", "ms": "107082086707", "rq":"4052204"},
+  {"name": "s21 plus screen service violet", "ms": "107082086709", "rq":"4052209"},
+  {"name": "s21 plus screen service silver", "ms": "107082086708", "rq":"4052208"},
+
+  {"name": "s21 Ultra screen refurb silver", "ms": "107082086702", "rq":"4051193"},
+  {"name": "s21 Ultra screen refurb black", "ms": "107082086701", "rq":"4052199"},
+  {"name": "s21 Ultra screen service silver", "ms": "107082086710", "rq":"4051193"},
+  {"name": "s21 Ultra screen service black", "ms": "107082086719", "rq":"4052199"},
+
+  {"name": "s22 screen refurb black", "ms": "107082079301", "rq":"4060091"},
+  {"name": "s22 screen refurb white", "ms": "207082011301", "rq":"4060092"},
+  {"name": "s22 screen refurb green", "ms": "107082079302", "rq":"4060090"},
+  {"name": "s22 screen refurb pink gold", "ms": "207082011302", "rq":"4060093"},
+  {"name": "s22 screen service black", "ms": "107082087737", "rq":"4060091"},
+  {"name": "s22 screen service white", "ms": "107082087738", "rq":"4060092"},
+  {"name": "s22 screen service green", "ms": "107082087739", "rq":"4060090"},
+  {"name": "s22 screen service pink gold", "ms": "107082087747", "rq":"4060093"},
+
+  {"name": "s22 plus screen refurb white", "ms": "107082089501", "rq":"4060113"},
+  {"name": "s22 plus screen refurb green", "ms": "107082089504", "rq":"4060111"},
+  {"name": "s22 plus screen refurb pink gold", "ms": "107082089503", "rq":"4060114"},
+  {"name": "s22 plus screen refurb black", "ms": "107082089502", "rq":"4060112"},
+  {"name": "s22 plus screen service white", "ms": "107082087735", "rq":"4060113"},
+  {"name": "s22 plus screen service green", "ms": "107082087736", "rq":"4060111"},
+  {"name": "s22 plus screen service pink gold", "ms": "107082089505", "rq":"4060114"},
+  {"name": "s22 plus screen service black", "ms": "107082087740", "rq":"4060112"},
+
+  {"name": "s22 Ultra screen refurb green", "ms": "107082079204", "rq":"4060099"},
+  {"name": "s22 Ultra screen refurb black", "ms": "107082087770", "rq":"4060100"},
+  {"name": "s22 Ultra screen refurb burgundy", "ms": "107082079205", "rq":"4060098"},
+  {"name": "s22 Ultra screen refurb white", "ms": "107082079203", "rq":"4060101"},
+  {"name": "s22 Ultra screen refurb graphite", "ms": "107082079206", "rq":"4060100"},
+  {"name": "s22 Ultra screen service green", "ms": "107082087742", "rq":"4060099"},
+  {"name": "s22 Ultra screen service black", "ms": "107082087724", "rq":"4060100"},
+  {"name": "s22 Ultra screen service burgundy", "ms": "107082087769", "rq":"4060098"},
+  {"name": "s22 Ultra screen service white", "ms": "107082087745", "rq":"4060101"},
+  {"name": "s22 Ultra screen service graphite", "ms": "107082087746", "rq":"4060100"},
+
+  {"name": "s23 screen refurb black", "ms": "107082136601", "rq":"4104925"},
+  {"name": "s23 screen service black", "ms": "107070809005", "rq":"4104925"},
+
+  {"name": "s23 plus screen refurb black", "ms": "107082136701", "rq":"4104929"},
+  {"name": "s23 plus screen service black", "ms": "107070809009", "rq":"4104929"},
+
+  {"name": "s23 Ultra screen refurb black", "ms": "107082136501", "rq":"4104934"},
+  {"name": "s23 Ultra screen refurb graphite", "ms": "107082136505", "rq":"4104934"},
+  {"name": "s23 Ultra screen refurb lavender", "ms": "107082136504", "rq":"4104930"},
+  {"name": "s23 Ultra screen refurb green", "ms": "107082136503", "rq":"4104932"},
+  {"name": "s23 Ultra screen service black", "ms": "107070809000", "rq":"4104934"},
+  {"name": "s23 Ultra screen service graphite", "ms": "107070809003", "rq":"4104934"},
+  {"name": "s23 Ultra screen service lavender", "ms": "107070809004", "rq":"4104930"},
+  {"name": "s23 Ultra screen service green", "ms": "107070809002", "rq":"4104932"},
+  {"name": "s23 Ultra screen service cream", "ms": "107070809001", "rq":"4104933"},
+
+  {"name": "note 8 screen refurb black", "ms": "107082011409", "rq":"6919"},
+  {"name": "note 8 screen refurb gray", "ms": "107082011410", "rq":"6920"},
+  {"name": "note 8 screen service black", "ms": "107082011422", "rq":"6919"},
+  {"name": "note 8 screen service gray", "ms": "107082010913", "rq":"6920"},
+
+  {"name": "note 9 screen refurb black", "ms": "107082011408", "rq":"4034030"},
+  {"name": "note 9 screen refurb purple", "ms": "107082012221", "rq":"4032945"},
+  {"name": "note 9 screen refurb blue", "ms": "107082012224", "rq":"4032946"},
+  {"name": "note 9 screen service black", "ms": "107082012203", "rq":"4034030"},
+  {"name": "note 9 screen service purple", "ms": "107082012204", "rq":"4032945"},
+  {"name": "note 9 screen service blue", "ms": "107082012202", "rq":"4032946"},
+
+  {"name": "note 10 screen refurb black", "ms": "107082025702", "rq":"4043390"},
+  {"name": "note 10 screen refurb glow", "ms": "107082025706", "rq":"4043391"},
+  {"name": "note 10 screen service black", "ms": "107082012240", "rq":"4043390"},
+  {"name": "note 10 screen service glow", "ms": "107082025703", "rq":"4043391"},
+
+  {"name": "note 10 plus screen refurb glow", "ms": "107082066903", "rq":"4043394"},
+  {"name": "note 10 plus screen refurb black", "ms": "107082066901", "rq":"4043393"},
+  {"name": "note 10 plus screen refurb white", "ms": "107082066902", "rq":"4043395"},
+  {"name": "note 10 plus screen service glow", "ms": "107082012216", "rq":"4043394"},
+  {"name": "note 10 plus screen service black", "ms": "107082012215", "rq":"4043393"},
+  {"name": "note 10 plus screen service white", "ms": "107082012250", "rq":"4043395"},
+
+  {"name": "note 20 screen refurb green", "ms": "107082083013", "rq":"4048214"},
+  {"name": "note 20 screen refurb bronze", "ms": "107082083012", "rq":"4048212"},
+  {"name": "note 20 screen refurb gray", "ms": "107082083011", "rq":"4048213"},
+  {"name": "note 20 screen service green", "ms": "107082066961", "rq":"4048214"},
+  {"name": "note 20 screen service bronze", "ms": "107082066936", "rq":"4048212"},
+  {"name": "note 20 screen service gray", "ms": "107082066935", "rq":"4048213"},
+
+  {"name": "note 20 Ultra screen refurb white", "ms": "107082073410", "rq":"4049611"},
+  {"name": "note 20 Ultra screen refurb black", "ms": "107082073411", "rq":"4049612"},
+  {"name": "note 20 Ultra screen refurb bronze", "ms": "107082073412", "rq":"4049610"},
+  {"name": "note 20 Ultra screen service white", "ms": "107082066937", "rq":"4049611"},
+  {"name": "note 20 Ultra screen service black", "ms": "107082066992", "rq":"4049612"},
+  {"name": "note 20 Ultra screen service bronze", "ms": "107082066991", "rq":"4049610"},
+
+  {"name": "a10e screen frame", "ms": "107082020916", "rq":"4052180"},
+  {"name": "a10e screen noframe", "ms": "107082020956", "rq":"4052180"},
+
+  {"name": "a11 screen noframe", "ms": "107082101106", "rq":"4059969"},
+  {"name": "a11 screen frame", "ms": "107082101105", "rq":"4059969"},
+
+  {"name": "a135g screen", "ms": "107085003702", "rq":"4079054"},
+  {"name": "a135g screen", "ms": "107085003703", "rq":"4079054"},
+  {"name": "a135g screen", "ms": "107085003701", "rq":"4079054"},
+
+  {"name": "a145g screen", "ms": "107082129801", "rq":"4107442"},
+  {"name": "a145g screen", "ms": "107082129802", "rq":"4107442"},
+
+  {"name": "a20 screen", "ms": "107082020905", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020902", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082055170", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082002412", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020909", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020913", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020912", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020907", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020904", "rq":"4051683"},
+  {"name": "a20 screen", "ms": "107082020903", "rq":"4051683"},
+
+  {"name": "a21 screen", "ms": "107082077101", "rq":"4048357"},
+  {"name": "a21 screen", "ms": "107082077102", "rq":"4048357"},
+  {"name": "a21 screen", "ms": "107082077150", "rq":"4048357"},
+  {"name": "a21 screen", "ms": "107082077151", "rq":"4048357"},
+  {"name": "a21 screen", "ms": "107082136200", "rq":"4048357"},
+
+  {"name": "a32 screen", "ms": "107082087201", "rq":"4057397"},
+  {"name": "a32 screen", "ms": "107082087202", "rq":"4057397"},
+  {"name": "a32 screen", "ms": "107082087204", "rq":"4057397"},
+
+  {"name": "a51 5g screen", "ms": "107082022905", "rq":"4052183"},
+  {"name": "a51 5g screen", "ms": "107082022911", "rq":"4052183"},
+
+  {"name": "a52 5g screen", "ms": "107082087101", "rq":"4056589"},
+  {"name": "a52 5g screen", "ms": "107082087107", "rq":"4056589"},
+
+  {"name": "a53 5g screen", "ms": "107082111301", "rq":"4079858"},
+  {"name": "a53 5g screen", "ms": "107082111328", "rq":"4079858"},
+
+  {"name": "a54 5g screen", "ms": "107082139502", "rq":"4107351"},
+  {"name": "a54 5g screen", "ms": "107082139501", "rq":"4107351"},
+
+  {"name": "a71 5g screen", "ms": "107082074002", "rq":"4064955"},
+  {"name": "a71 5g screen", "ms": "107082075401", "rq":"4064955"},
+  {"name": "a71 5g screen", "ms": "107082074010", "rq":"4064955"},
+
+  {"name": "note 8 back black", "ms": "107082011373", "rq":"2478079"},
+  {"name": "note 8 back gray", "ms": "107082011374", "rq":"2478080"},
+
+  {"name": "note 9 back black", "ms": "", "rq":"4034274"},
+  {"name": "note 9 back blue", "ms": "107082011374", "rq":"2478080"},
+  {"name": "note 9 back purple", "ms": "", "rq":"4032943"},
+
+  {"name": "note 10 back black", "ms": "", "rq":"4040025"},
+  {"name": "note 10 back glow", "ms": "", "rq":"4040026"},
+  {"name": "note 10 back glow", "ms": "", "rq":"4040027"},
+
+  {"name": "note 10 plus back black", "ms": "", "rq":"4040028"},
+  {"name": "note 10 plus back glow", "ms": "", "rq":"4040029"},
+  {"name": "note 10 plus back white", "ms": "", "rq":"4040030"},
+
+  {"name": "note 20 back gray", "ms": "", "rq":"4048207"},
+
+  {"name": "note 20 ultra back gray", "ms": "", "rq":"4048209"},
+  {"name": "note 20 ultra back bronze", "ms": "", "rq":"4048210"},
+  {"name": "note 20 ultra back white", "ms": "", "rq":"4048211"},
+
+  {"name": "s8 back black", "ms": "", "rq":"5354"},
+  {"name": "s8 back gray", "ms": "", "rq":"5356"},
+  {"name": "s8 back silver", "ms": "", "rq":"5355"},
+
+  {"name": "s8 plus back black", "ms": "", "rq":"5357"},
+  {"name": "s8 plus back gray", "ms": "", "rq":"5359"},
+  {"name": "s8 plus back silver", "ms": "", "rq":"5358"},
+
+  {"name": "s9 back black", "ms": "", "rq":"4028262"},
+  {"name": "s9 back purple", "ms": "", "rq":"4028261"},
+  {"name": "s9 back blue", "ms": "", "rq":"4028260"},
+
+  {"name": "s9 plus back black", "ms": "", "rq":"4028265"},
+  {"name": "s9 plus back purple", "ms": "", "rq":"4028264"},
+  {"name": "s9 plus back blue", "ms": "", "rq":"4028263"}
+
+
+
+
+
+
+
+
+
+]
