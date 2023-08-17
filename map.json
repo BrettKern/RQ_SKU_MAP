@@ -67,6 +67,8 @@
   {"name": "s20 ultra screen service black", "ms": "107082073403", "rq":"4045558"},
   {"name": "s20 ultra screen service gray", "ms": "107082072610", "rq":"4045556"},
 
+  {"name": "s20 fe service navy", "ms": "107082081211", "rq": "4049148"),
+
   {"name": "s21 screen refurb voilet", "ms": "107082085904", "rq":"4052197"},
   {"name": "s21 screen refurb pink", "ms": "107082085902", "rq":"4052196"},
   {"name": "s21 screen refurb white", "ms": "107082085903", "rq":"4052198"},
