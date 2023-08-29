@@ -23,6 +23,14 @@
   {"name": "s9 screen service purple", "ms": "107082013102", "rq":"4028245"},
   {"name": "s9 screen service blue", "ms": "107082013103", "rq":"4028244"},
 
+  {"name": "s9 plus screen service blue", "ms": "107082013105", "rq":"4028247"},
+  {"name": "s9 plus screen service black", "ms": "107082013109", "rq":"4028249"},
+  {"name": "s9 plus screen service purple", "ms": "107082013107", "rq":"4028248"},
+
+  {"name": "s9 plus screen refurb blue", "ms": "107082013117", "rq":"4028247"},
+  {"name": "s9 plus screen refurb black", "ms": "107082013133", "rq":"4028249"},
+  {"name": "s9 plus screen refurb purple", "ms": "107082013119", "rq":"4028248"},
+
   {"name": "s10 screen refurb blue", "ms": "107082020104", "rq":"4036071"},
   {"name": "s10 screen refurb white", "ms": "107082020103", "rq":"4036072"},
   {"name": "s10 screen refurb black", "ms": "107082020102", "rq":"4036070"},
