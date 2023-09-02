@@ -78,6 +78,9 @@
   {"name": "s20 fe service navy", "ms": "107082081211", "rq": "4049148"},
   {"name": "s20 fe refurb navy", "ms": "107082081204", "rq": "4049148"},
 
+  {"name":"S20 fe refurb mint", "ms": "107082081205", "rq":"4049149"},
+  {"name":"s20 fe service mint", "ms":"107082081208", "rq":"4049149"},
+
   {"name": "s21 screen refurb voilet", "ms": "107082085904", "rq":"4052197"},
   {"name": "s21 screen refurb pink", "ms": "107082085902", "rq":"4052196"},
   {"name": "s21 screen refurb white", "ms": "107082085903", "rq":"4052198"},
